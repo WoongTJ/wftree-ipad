@@ -1,0 +1,26 @@
+{
+  "name": "워크플로우 트리 제작기",
+  "short_name": "워크플로트리",
+  "description": "AI 워크플로우 트리를 그리고 저장하는 도구 (아이패드판 v1.2.4-ipad.1). 문서는 기기에만 저장된다.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#070F1C",
+  "theme_color": "#0B1728",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
