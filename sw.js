@@ -1,6 +1,6 @@
 /* 워크플로우 트리 제작기 아이패드판. 온라인이면 네트워크 우선, 실패 시에만 캐시. 문서는 캐시하지 않는다. */
-const CACHE = 'wftree-1.2.4-ipad.2';
-const BUILD = '1.2.4-ipad.2';
+const CACHE = 'wftree-1.2.4-ipad.3';
+const BUILD = '1.2.4-ipad.3';
 const SHELL = [
   './',
   './index.html',

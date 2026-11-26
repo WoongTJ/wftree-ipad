@@ -1,7 +1,7 @@
 {
   "name": "워크플로우 트리 제작기",
   "short_name": "워크플로트리",
-  "description": "AI 워크플로우 트리를 그리고 저장하는 도구 (아이패드판 v1.2.4-ipad.2). 문서는 기기에만 저장된다.",
+  "description": "AI 워크플로우 트리를 그리고 저장하는 도구 (아이패드판 v1.2.4-ipad.3). 문서는 기기에만 저장된다.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
